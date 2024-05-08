@@ -22,9 +22,9 @@ const FAQS = () => {
             </div>
             <Accordion type="single" collapsible>
     <AccordionItem value="item-1">
-      <AccordionTrigger>What is Bird?</AccordionTrigger>
+      <AccordionTrigger>What is MarketPulse?</AccordionTrigger>
       <AccordionContent>
-        Bird is a full fledge marketing agency that specializes in branding, web design, and digital marketing.
+		MarketPulse is a full fledge marketing agency that specializes in branding, web design, and digital marketing.
       </AccordionContent>
     </AccordionItem>
     <AccordionItem value="item-2">
